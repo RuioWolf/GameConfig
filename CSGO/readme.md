@@ -24,7 +24,7 @@ Dynamic Crosshair:
     cl_crosshaircolor_b "50.000000"
     cl_crosshaircolor_g "250.000000"
     cl_crosshaircolor_r "50.000000"
-    cl_crosshairdot "0.000000"
+    cl_crosshairdot "1.000000"
     cl_crosshairgap "-3.000000"
     cl_crosshairgap_useweaponvalue "0"
     cl_crosshairscale "0"
