@@ -11,7 +11,7 @@ practice.cfg: `D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\
 Dynamic Crosshair:
 
     cl_crosshair_drawoutline "1.000000"
-    cl_crosshair_dynamic_maxdist_splitratio "0.35"
+    cl_crosshair_dynamic_maxdist_splitratio "0.300000"
     cl_crosshair_dynamic_splitalpha_innermod "1"
     cl_crosshair_dynamic_splitalpha_outermod "1"
     cl_crosshair_dynamic_splitdist "5.000000"
@@ -28,7 +28,7 @@ Dynamic Crosshair:
     cl_crosshairgap "-3.000000"
     cl_crosshairgap_useweaponvalue "0"
     cl_crosshairscale "0"
-    cl_crosshairsize "2.500000"
+    cl_crosshairsize "3.000000"
     cl_crosshairstyle "2.000000"
     cl_crosshairthickness "0.500000"
     cl_crosshairusealpha "1"
