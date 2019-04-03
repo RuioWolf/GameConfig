@@ -1,5 +1,11 @@
+fullscreen no border:
 ```
 -sw -w 1920 -h 1080 -d3d9ex -noborder -noforcemaccel -noforcemparms -noforcemspd -noaafonts -novid -nojoy -preload -processheap -tickrate 128 -freq 144 -panorama -autoexec autoexec.cfg -worldwide +mat_queue_mode 2 +snd_use_hrtf 0
+```
+
+fullscreen 4:3:
+```
+-full -w 1024 -h 768 -d3d9ex -noborder -noforcemaccel -noforcemparms -noforcemspd -noaafonts -novid -nojoy -preload -processheap -tickrate 128 -freq 144 -panorama -autoexec autoexec.cfg -worldwide +mat_queue_mode 2 +snd_use_hrtf 0
 ```
 
 config.cfg: `D:\Program Files (x86)\Steam\userdata\84325068\730\local\cfg`
